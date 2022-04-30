@@ -1,0 +1,19 @@
+{
+  "name": "funtions",
+  "version": "0.0.1",
+  "description": "funs-helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1154496287/funs.git"
+  },
+  "author": "qingdong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1154496287/funs/issues"
+  },
+  "homepage": "https://github.com/1154496287/funs#readme"
+}
