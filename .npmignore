@@ -2,7 +2,7 @@ node_modules/
 .vscode/
 build/
 dist/
-scripts/
+tools/
 src/
 .editorconfig
 .eslintrc.js
