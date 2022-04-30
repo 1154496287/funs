@@ -1,10 +1,3 @@
-/*
- * @Description: 字符串匹配
- * @Author: Gleason
- * @Date: 2022-02-23 18:10:08
- * @LastEditors: Gleason
- * @LastEditTime: 2022-03-08 17:31:50
- */
 
 /**
  * @description: 匹配由 26 个英文字母组成的字符串
